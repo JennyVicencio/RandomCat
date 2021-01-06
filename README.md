@@ -2,7 +2,7 @@
 Generador de gatos random, usando la API de [Cataas.com](http://cataas.com "Sitio de Cataas.com"). Hecho con Vue.
 
 Links:
-* https://jennyvicencio.github.io/RandomCat/ (Git page)
+* https://jennyvicencio.github.io/RandomCat/ (Git page) <--- No funciona D:
 * https://randomcat-gen.netlify.app/ (Netlify)
 
 
